@@ -1,9 +1,9 @@
 import org.jetbrains.annotations.Nullable;
 
-public abstract class JavaAbstractClass<T> {
+public abstract class JavaAbstractClass {
 
     @Nullable
-    public T getValue(){
+    public String getValue(){
         return null;
     }
 }

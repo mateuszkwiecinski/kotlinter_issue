@@ -1,5 +1,5 @@
-class TheIssue : JavaMiddleAbstractClass<String>(), KotlinInterface<String>
+class TheIssue : JavaMiddleAbstractClass(), KotlinInterface
 
-interface KotlinInterface<T> {
-    val value: T?
+interface KotlinInterface {
+    val value: String?
 }

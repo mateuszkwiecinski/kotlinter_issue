@@ -1,2 +1,2 @@
-public class JavaMiddleAbstractClass<T> extends JavaAbstractClass<T> implements KotlinInterface<T> {
+public class JavaMiddleAbstractClass extends JavaAbstractClass implements KotlinInterface {
 }
